@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-img {
+  height: 157px;
+  border-radius: 5em;
+}
+
+.App-header {
+  background-color: #40b5f1;
+  height: 228px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+.nav_list {
+  background-color: black;
+  text-align: center;
+
+}
+ul{
+  display: inline-flex;
+}
+ul>li{
+    list-style: none;
+    padding: 5px 24px;
+}
+.nav_list ul>li>a{
+  text-decoration: none;
+  color: #fff;
+}
+.img_tec img{
+  height: 150px;
+}
+.img_tec ul{
+  display: inline-flex;
+}
+/*@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}*/
